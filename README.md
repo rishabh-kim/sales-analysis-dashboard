@@ -52,14 +52,6 @@ Interactive Tableau dashboards analyzing **9,995+ sales transactions** (2014-201
 
 ---
 
-## Deliverables
-
-- 📊 4 Interactive Tableau Dashboards
-- 📋 PowerPoint Presentation
-- 📄 Comprehensive Documentation
-
----
-
 ## Attribution
 
 This project is based on learning from YouTube tutorials and demonstrates Tableau dashboard development techniques applied to the Sample - Superstore dataset. The dashboards, analysis approach, and visualizations showcase best practices in retail analytics.
