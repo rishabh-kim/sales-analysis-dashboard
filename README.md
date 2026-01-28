@@ -34,12 +34,12 @@ Interactive Tableau dashboards analyzing **9,995+ sales transactions** (2014-201
 
 ## Key Features
 
-✅ Dynamic year filtering (2014-2017)  
-✅ Multi-dimensional drill-down (Region → Category → Sub-Category)  
-✅ Manager performance tracking via return patterns  
-✅ Segment analysis (Consumer, Corporate, Home Office)  
-✅ Discount impact on profitability  
-✅ Real-time interactive exploration  
+→ Dynamic year filtering (2014-2017)  
+→ Multi-dimensional drill-down (Region → Category → Sub-Category)  
+→ Manager performance tracking via return patterns  
+→ Segment analysis (Consumer, Corporate, Home Office)  
+→ Discount impact on profitability  
+→ Real-time interactive exploration  
 
 ---
 
