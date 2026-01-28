@@ -58,5 +58,10 @@ Interactive Tableau dashboards analyzing **9,995+ sales transactions** (2014-201
 - 📋 PowerPoint Presentation
 - 📄 Comprehensive Documentation
 
-**License**: MIT  
+---
+
+## Attribution
+
+This project is based on learning from YouTube tutorials and demonstrates Tableau dashboard development techniques applied to the Sample - Superstore dataset. The dashboards, analysis approach, and visualizations showcase best practices in retail analytics.
+
 **Author**: Rishabh Kimothi
